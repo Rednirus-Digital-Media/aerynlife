@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+zcube.in	TRUE	/	FALSE	1999999999	PHPSESSID	e7b1mr5abebhk6rgkfvuk3v0o1
+
